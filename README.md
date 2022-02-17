@@ -26,9 +26,9 @@ if NOT %pass%==123456 goto FAIL <-----Change Your Password!
 
 ### Advantage
 
-<b>Secure Folder Creates A Secure Folder Vault Where User Can Store Any Important File & Information.</br>
+Secure Folder Creates A Secure Folder Vault Where User Can Store Any Important File & Information.
 
 ### Disadvantage
 
-<b>This Program Hide And lock The Folder That Cannot Be Found By Using The Normal "Show Hidden File Option"</b>
-<b>Disadvantage : If The .bat File is Visible Or Kept Open, Third Person Will Be Able To See The Password If He Want To, So Better To Change The Password Or Hide It or Keep It In Another Folder After Using It.</b>
+This Program Hide And lock The Folder That Cannot Be Found By Using The Normal "Show Hidden File Option"
+Disadvantage : If The .bat File is Visible Or Kept Open, Third Person Will Be Able To See The Password If He Want To, So Better To Change The Password Or Hide It or Keep It In Another Folder After Using It.
