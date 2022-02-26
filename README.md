@@ -26,7 +26,7 @@ if NOT %pass%==123456 goto FAIL <-----Change Your Password!
 
 ### Advantage
 
-Secure Folder Creates A Secure Folder Vault Where User Can Store Any Important File & Information.
+Secure Folder Creates A Src Folder Vault Where User Can Store Any Important File & Information.
 
 ### Disadvantage
 
